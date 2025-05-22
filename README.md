@@ -3,6 +3,7 @@
 [![test](https://github.com/fullpipe/icu-mf/actions/workflows/test.yml/badge.svg)](https://github.com/fullpipe/icu-mf/actions/workflows/test.yml)
 [![codecov](https://codecov.io/github/fullpipe/icu-mf/graph/badge.svg?token=W6C02M3BFQ)](https://codecov.io/github/fullpipe/icu-mf)
 [![lint](https://github.com/fullpipe/icu-mf/actions/workflows/lint.yml/badge.svg)](https://github.com/fullpipe/icu-mf/actions/workflows/lint.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/fullpipe/icu-mf.svg)](https://pkg.go.dev/github.com/fullpipe/icu-mf)
 
 Messages in your application are never static. They have variables, pluralization, and formatting.
 To translate them easily, use [ICU MessageFormat](https://unicode-org.github.io/icu/userguide/format_parse/messages/).
